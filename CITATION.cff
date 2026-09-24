@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use CodonVeil, please cite the software using this metadata."
+title: "CodonVeil"
+type: software
+version: 0.1.0
+date-released: 2026-09-10
+authors:
+  - family-names: Barker
+    given-names: Will
+repository-code: "https://github.com/williamtbarker/codonveil"
+url: "https://github.com/williamtbarker/codonveil"
+license: MIT

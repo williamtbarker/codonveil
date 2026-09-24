@@ -1,0 +1,12 @@
+>reference synthetic unambiguous coding reference
+ATGTTTGAATGGGCTTAA
+>exact exact copy
+ATGTTTGAATGGGCTTAA
+>silent_ambiguity ambiguity resolves to the reference amino acid
+ATGTTYGAATGGGCNTAA
+>possible_change ambiguity includes reference and alternate amino acids
+ATGTWYGAATGGGCTTAA
+>stop_risk ambiguity includes tryptophan and stop
+ATGTTTGAATRGGCTTAA
+>partial_gap one incomplete aligned codon
+ATGTTTGAATGGG-TTAA
