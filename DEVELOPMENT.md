@@ -9,10 +9,6 @@
 - Reports are written before returning exit code 2 so CI systems can retain diagnostic artifacts.
 - Version 0.1.0 deliberately supports only full-length aligned CDS records and translation table 1.
 
-## AI-assisted development disclosure
-
-This repository was developed with AI assistance for literature and prior-art screening, design exploration, implementation, tests, and documentation. Will Barker directs the project, reviews the scientific and product choices, reruns the verification gate locally, and decides whether to publish. AI assistance is not evidence of scientific validity; executable tests and explicit claims boundaries are retained so the work can be inspected on its merits.
-
 ## Future work that should require evidence
 
 - Additional NCBI translation tables should be generated from an authoritative machine-readable source and cross-validated, not manually transcribed ad hoc.
